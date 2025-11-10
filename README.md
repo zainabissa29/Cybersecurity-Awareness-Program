@@ -10,6 +10,7 @@ This repository demonstrates a full end-to-end **Cybersecurity Awareness & Socia
 The project was designed to simulate how a cybersecurity analyst develops and manages an **enterprise-wide awareness initiative**, tailored especially for organizations in **Operational Technology (OT) and SCADA environments**.
 
 > 🧩 *Goal:* Build a measurable, data-driven awareness culture that reduces phishing risk, strengthens security behavior, and supports compliance with NIST SP 800-50 and ISO 27001 controls.
+![horizon_labs2](https://github.com/user-attachments/assets/6e1c3012-8e1f-4351-8bcc-3889bf7498a3)
 
 ---
 
