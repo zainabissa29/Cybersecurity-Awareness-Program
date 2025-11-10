@@ -143,6 +143,3 @@ This program aligns with major cybersecurity frameworks:
 
 ---
 
-## 🏢 Visual Theme  
-> *Corporate Blue-Gray Aesthetic* — calm professional tones, clean layout, minimal distractions, emphasizing clarity and business value.
-
