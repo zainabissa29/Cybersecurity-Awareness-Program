@@ -111,11 +111,14 @@ Cybersecurity_Awareness_Program/
 - Mapped departmental risk heatmaps (Finance, Executives, OT critical).  
 - Performed NIST SP 800-50 gap analysis.
 
+<h3 align="center" style="color:#33475b;">Departmental Cyber Risk Heatmap</h3>
+
 <p align="center">
-  <img src="Assets/Departmental_Cyber_Risk_Heatmap.png" alt="Departmental Risk Heatmap" width="70%">
+  <img src="Assets/Departmental_Cyber_Risk_Heatmap.png" alt="Departmental Risk Heatmap" width="70%" style="border:1px solid #cfd8dc; border-radius:4px;">
   <br>
-  <em>Figure 1: Departmental Risk Heatmap</em>
+  <em style="color:#607d8b;">Figure 1: Departmental Cyber Risk Heatmap</em>
 </p>
+
 ---
 
 ### 🏗️ Phase 2 — Program Design
