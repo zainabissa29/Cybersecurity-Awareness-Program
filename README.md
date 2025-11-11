@@ -112,8 +112,7 @@ Cybersecurity_Awareness_Program/
 - Performed NIST SP 800-50 gap analysis.
 
 <p align="center">
-  <img src="assets/risk_heatmap.png" width="70%"><br>
-  https://github.com/zainabissa29/Cybersecurity-Awareness-Program/blob/main/Assets/Departmental%20Cyber%20Risk%20Heat%20map.png
+  <img src="Assets/Departmental_Cyber_Risk_Heatmap.png" alt="Departmental Risk Heatmap" width="70%"><br>
   <em>Figure 1: Departmental Risk Heatmap</em>
 </p>
 
