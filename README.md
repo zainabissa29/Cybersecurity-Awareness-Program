@@ -113,6 +113,7 @@ Cybersecurity_Awareness_Program/
 
 <p align="center">
   <img src="assets/risk_heatmap.png" width="70%"><br>
+  https://github.com/zainabissa29/Cybersecurity-Awareness-Program/blob/main/Assets/Departmental%20Cyber%20Risk%20Heat%20map.png
   <em>Figure 1: Departmental Risk Heatmap</em>
 </p>
 
